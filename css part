@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=poppins:wght@300;400;500;600;700;800;900;&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=poppins:wght@300;400;500;600;700;800;900&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -24,7 +24,7 @@ body {
 
 .container .card {
     position: relative;
-    max-width: 300;
+    max-width: 300px;
     height: 215px;
     background: #fff;
     margin: 30px 10px;
